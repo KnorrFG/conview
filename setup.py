@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='conview',
-      version='0.1',
+      version='0.2',
       description='A specialized nifti viewer',
       author='Felix Knorr',
       author_email='knorr.felix@gmx.de',
