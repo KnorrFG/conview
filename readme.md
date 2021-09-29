@@ -23,13 +23,13 @@ List of Hotkeys:
 (all changes will apply to the side you clicked on last, left if you havent 
 clicked yet)
 
-t: set threshold
-m: change color map 
-i: change vmin
-a: change vmax
-v: reset vrange to default
-g: toggle location and value information
-h: show this help
+t: set threshold  
+m: change color map  
+i: change vmin  
+a: change vmax  
+v: reset vrange to default  
+g: toggle location and value information  
+h: show help
 
 ## Installation
 
